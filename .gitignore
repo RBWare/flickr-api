@@ -4,3 +4,8 @@
 #IDE Stuff
 .idea/
 Flickr-API.iml
+local.properties
+
+#Build folder
+app/build
+app/build/*
